@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "cycberX",
+  "repo": "container-nzc0rmo",
+  "name": "cycberX",
+  "email": "bandgarsanskar19@gmail.com",
+}
